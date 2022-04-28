@@ -93,9 +93,9 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 > 
 > **Exemplo de Persona**
 > 
-> <img src="images/persona1.png" width="50px">
-  <img src="images/persona2.png" width="50px">
-  <img src="images/persona3.png" width="50px">
+> <img src="images/persona1.png" width="100%">
+  <img src="images/persona2.png" width="100%">
+  <img src="images/persona3.png" width="100%">
 
 ## Histórias de Usuários
 
