@@ -23,7 +23,3 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 * Rommel Vieira Carneiro
 * Simone de Assis Alves da Silva
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
