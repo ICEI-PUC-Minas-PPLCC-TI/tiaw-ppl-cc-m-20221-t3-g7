@@ -1,21 +1,18 @@
-# Informações do Projeto
-`TÍTULO DO PROJETO`  
+<h1 align="center" id="landing-page">iSenior</h1>
 
-......  COLOQUE AQUI O SEU TEXTO ......
+<p>A cada dia que se passa, a utilização da internet tem se tornado mais necessária. Situações do dia a dia, como buscar informações, fazer compras ou se comunicar com os amigos e com a família são, nessa nova realidade, realizadas digitalmente. Entretanto, as pessoas com mais de 65 anos, as quais não foram acostumadas a utilizar os meios digitais com esses intuitos, sentem dificuldade ao serem imersas nesse contexto.
+Diante disso, torna-se fundamental que existam ferramentas que auxiliem a terceira idade, de forma a ensinar esse grupo a lidar com os meios digitais tão usados na atualidade.</p>
 
-`CURSO` 
+<h2>Participantes</h2>
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-## Participantes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+<ul>
+  <li>Artur Ricardo Martins Drummond Azevedo</li>
+  <li>Ana Beatriz Pessoa Braz</li>
+  <li>Brenno Augusto Herculano dos Santos</li>
+  <li>Eduardo Oliveira Coelho</li>
+  <li>Beatriz Fulgencio da Cunha Menezes</li>
+  <li>Gabriel Ribeiro Todt Ferreir</li>
+</ul>
 
 # Estrutura do Documento
 
@@ -56,107 +53,49 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
+> O problema que se busca resolver com este projeto é a dificuldade que grande
+>  parte dos idosos sente em acessar a internet com segurança e sabendo utilizar seus recursos e facilidades.
 >
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
+> O objetivo geral deste trabalho é a criação de um site informativo que sirva como um guia 
+> para que os idosos possam, com mais facilidade, navegar pela internet.
 > 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> Como objetivos específicos, podemos ressaltar:
+> 
+> - Fornecer funcionalidades que permitam maior acessibilidade dentro e fora do site;
+> - Ensinar essas pessoas a identificar golpes e fake news
+> - Facilitar a execução de tarefas do dia a dia de idosos por meio da internet.
+> 
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
+> Diferentemente das novas gerações que já nasceram com os recursos tecnológicos 
+> contidos no cotidiano, pessoas que nasceram em uma época na qual o acesso à tecnologia 
+> era mais restrito, antes da popularização da internet, encontram, hoje, dificuldades para se
+> adaptar a uma nova realidade tão digital. Esse novo cenário impõe aos mais velhos a
+> necessidade de se conectar à internet para contactar amigos e família, para trabalhar ou 
+> para acessar as notícias
 >
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+> O foco deste trabalho está nos idosos que sentem dificuldade em viver em um cenário tão tecnológico e digital. Sendo assim, o público alvo pode ser definido como a > > terceira idade, configurada por pessoas com mais de 65 anos, que buscam aprender a utilizar a internet e suas principais ferramentas de acessibilidade para facilitar > as tarefas do dia a dia. Além disso, os cuidadores e as famílias têm papel fundamental no projeto, visto que poderão auxiliar o grupo em foco no primeiro contato com > a plataforma. 
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+> Foi feita uma pesquisa com idosos e cuidadores, a qual tinha como objetivo identificar os principais aspectos que motivam e que desmotivam os primeiros a utilizarem > a internet e as dificuldades dos segundos de solucionar essa dificuldade. A partir dos resultados obtidos, foram elaboradas três personas, duas delas representando > > idosos e uma representando o cuidador.
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
+> As personas levantadas durante o processo de entendimento do problema são apresentadas nas figuras que se seguem.
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
-
+> ![Exemplo de Persona](images/persona1.png)
+> ![Exemplo de Persona](images/persona2.png)
+> ![Exemplo de Persona](images/persona3.png)
 
 ## Histórias de Usuários
 
