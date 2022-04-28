@@ -93,9 +93,9 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 > 
 > **Exemplo de Persona**
 > 
-> <img src="images/persona1.png" width="80%">
-  <img src="images/persona2.png" min-width="80%">
-  <img src="images/persona3.png" min-width="80%">
+> <img src="images/persona1.png" width="95%" height="80%">
+> <img src="images/persona2.png" width="95%" height="80%">
+> <img src="images/persona3.png" width="95%" height="80%">
 
 ## Histórias de Usuários
 
@@ -160,14 +160,19 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 > O diagrama apresentado na Figura 2 mostra o fluxo de interação do usuário (user flow) pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue.
 >  
-> ![Exemplo de UserFlow](images/Userflow.jpg)
+> <img src="images/Userflow.png" width="100%" height="100%">
+
 
 
 ## Wireframes
 
 > Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura 3. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+> <img src="images/Wireframe 1.png" width="100%" height="90%">
+> <img src="images/Wireframe 2.png" width="100%" height="90%">
+> <img src="images/Wireframe 3.png" width="100%" height="90%">
+
+
 
 
 # Metodologia
