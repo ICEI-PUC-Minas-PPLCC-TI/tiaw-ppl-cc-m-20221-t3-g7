@@ -11,7 +11,8 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
   <li>Brenno Augusto Herculano dos Santos</li>
   <li>Eduardo Oliveira Coelho</li>
   <li>Beatriz Fulgencio da Cunha Menezes</li>
-  <li>Gabriel Ribeiro Todt Ferreir</li>
+  <li>Gabriel Ribeiro Todt Ferreira</li>
+  <li>Davi de Lima Vieira Lacerda</li>
 </ul>
 
 # Estrutura do Documento
@@ -64,8 +65,8 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 > 
 > Como objetivos específicos, podemos ressaltar:
 > 
-> - Fornecer funcionalidades que permitam maior acessibilidade dentro e fora do site;
-> - Ensinar essas pessoas a identificar golpes e fake news
+> - Fornecer funcionalidades que permitam maior acessibilidade dentro e fora do site.
+> - Ensinar essas pessoas a identificar golpes e fake news.
 > - Facilitar a execução de tarefas do dia a dia de idosos por meio da internet.
 > 
 
@@ -76,16 +77,16 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 > era mais restrito, antes da popularização da internet, encontram, hoje, dificuldades para se
 > adaptar a uma nova realidade tão digital. Esse novo cenário impõe aos mais velhos a
 > necessidade de se conectar à internet para contactar amigos e família, para trabalhar ou 
-> para acessar as notícias
+> para acessar as notícias.
 >
 
 ## Público-Alvo
 
-> O foco deste trabalho está nos idosos que sentem dificuldade em viver em um cenário tão tecnológico e digital. Sendo assim, o público alvo pode ser definido como a > > terceira idade, configurada por pessoas com mais de 65 anos, que buscam aprender a utilizar a internet e suas principais ferramentas de acessibilidade para facilitar > as tarefas do dia a dia. Além disso, os cuidadores e as famílias têm papel fundamental no projeto, visto que poderão auxiliar o grupo em foco no primeiro contato com > a plataforma. 
+> O foco deste trabalho está nos idosos que sentem dificuldade em viver em um cenário tão tecnológico e digital. Sendo assim, o público alvo pode ser definido como a terceira idade, configurada por pessoas com mais de 65 anos, que buscam aprender a utilizar a internet e suas principais ferramentas de acessibilidade para facilitar as tarefas do dia a dia. Além disso, os cuidadores e as famílias têm papel fundamental no projeto, visto que poderão auxiliar o grupo em foco no primeiro contato com  a plataforma. 
  
 # Especificações do Projeto
 
-> Foi feita uma pesquisa com idosos e cuidadores, a qual tinha como objetivo identificar os principais aspectos que motivam e que desmotivam os primeiros a utilizarem > a internet e as dificuldades dos segundos de solucionar essa dificuldade. A partir dos resultados obtidos, foram elaboradas três personas, duas delas representando > > idosos e uma representando o cuidador.
+> Foi feita uma pesquisa com idosos e cuidadores, a qual tinha como objetivo identificar os principais aspectos que motivam e que desmotivam os primeiros a utilizarem a internet e as dificuldades dos segundos de solucionar essa dificuldade. A partir dos resultados obtidos, foram elaboradas três personas, duas delas representando idosos e uma representando o cuidador.
 
 ## Personas e Mapas de Empatia
 
@@ -113,7 +114,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 |Roberta       | encontrar canais no Youtube sobre como realizar tarefas básicas digitalmente                  | auxiliar a ensinar para os idosos como navegar pela internet |
 ## Requisitos
 
-> O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
+> O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades de interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 > 
 ### Requisitos Funcionais
 > A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
@@ -139,7 +140,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| Dividir o site em seções: informações do projeto, lembretes, configurações, dia-a-dia, cuidados | ALTA | 
-|RNF-002| Design acessível: Fontes grandes, permitir zoom maior | ALTA | 
+|RNF-002| Design acessível: Fontes grandes, permitir maior zoom | ALTA | 
 |RNF-003| Colocar dropdown explicativo nas seções | MÉDIA | 
 |RNF-004| Cores não muito fortes, confortáveis para os olhos do usuário | BAIXA |
 
@@ -182,9 +183,16 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+| Aluno  | Função              |
+|-----------|-------------------------|
+| Ana Beatriz Braz  | Design & Organiza funções e horários |
+| Artur Ricardo Martins Drummond Azevedo  | Front-End | 
+| Beatriz Fulgencio da Cunha Menezes | Design & Organiza funções e horários |
+| Brenno Augusto Herculano dos Santos | Cria novas features e ajuda no front-end |
+| Davi de Lima Vieira Lacerda | Front-End |
+| Eduardo Oliveira Coelho | Front-End |
+| Gabriel Ribeiro Todt Ferreira | Front-End |
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
