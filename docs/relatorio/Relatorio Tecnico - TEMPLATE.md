@@ -188,8 +188,6 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Documentos do projeto  | Google Docs |  https://docs.google.com/document/d/1qgYBMHY91sYjbmvIANGuxynerLZylI9V24V_Agck1uE/edit?pli=1# | 
