@@ -94,8 +94,8 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 > **Exemplo de Persona**
 > 
 > <img src="images/persona1.png" widht="50px">
-  ![Persona2](images/persona2.png)
-  ![Persona3](images/persona3.png)
+  <img src="images/persona2.png" widht="50px">
+  <img src="images/persona3.png" widht="50px">
 
 ## Histórias de Usuários
 
