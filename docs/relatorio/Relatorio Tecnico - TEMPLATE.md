@@ -93,9 +93,9 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 > 
 > **Exemplo de Persona**
 > 
-> <img scr="tiaw-ppl-cc-m-20221-t3-g7/docs/relatorio/images/persona1.png">
-> <img scr="tiaw-ppl-cc-m-20221-t3-g7/docs/relatorio/images/persona2.png">
-> <img scr="tiaw-ppl-cc-m-20221-t3-g7/docs/relatorio/images/persona3.png">
+> ![Persona1](images/persona1.png)
+  ![Persona2](images/persona2.png)
+  ![Persona3](images/persona3.png)
 
 ## Histórias de Usuários
 
