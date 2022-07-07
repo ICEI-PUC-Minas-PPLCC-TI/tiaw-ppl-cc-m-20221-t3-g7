@@ -25,7 +25,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
   - [Justificativa](#justificativa)
   - [Público-Alvo](#público-alvo)
 - [Especificações do Projeto](#especificações-do-projeto)
-  - [Personas](#personas-e-mapas-de-empatia)
+  - [Personas](#personas)
   - [Histórias de Usuários](#histórias-de-usuários)
   - [Requisitos](#requisitos)
     - [Requisitos Funcionais](#requisitos-funcionais)
@@ -34,7 +34,6 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 - [Metodologia](#metodologia)
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
-  - [Controle de Versão](#controle-de-versão)
 - [Projeto de Interface](#projeto-de-interface)
   - [User Flow](#user-flow)
   - [Wireframes](#wireframes)
@@ -43,7 +42,6 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
   - [Arquitetura da solução](#arquitetura-da-solução)
 - [Avaliação da Aplicação](#avaliação-da-aplicação)
   - [Plano de Testes](#plano-de-testes)
-  - [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
   - [Registros de Testes](#registros-de-testes)
 - [Referências](#referências)
 
@@ -86,7 +84,7 @@ O foco deste trabalho está nos idosos que sentem dificuldade em viver em um cen
 
 Foi feita uma pesquisa com idosos e cuidadores, a qual tinha como objetivo identificar os principais aspectos que motivam e que desmotivam os primeiros a utilizarem a internet e as dificuldades dos segundos de solucionar essa dificuldade. A partir dos resultados obtidos, foram elaboradas três personas, duas delas representando idosos e uma representando o cuidador.
 
-## Personas e Mapas de Empatia
+## Personas
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas nas figuras que se seguem.
 
