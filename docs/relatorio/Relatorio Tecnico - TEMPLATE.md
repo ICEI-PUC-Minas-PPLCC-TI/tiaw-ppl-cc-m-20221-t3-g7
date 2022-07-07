@@ -46,6 +46,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
     - [Tela - Login](#tela---login)
     - [Tela - Cadastro de Usuário](#tela---cadastro-de-usuário)
     - [Tela - Perfil](#tela---perfil)
+    - [Tela - Pesquisa](#tela---artigos-favoritos)
     - [Tela - Administrador](#tela---administrador)
     - [Tela - Cadastro de Artigo](#tela---cadastro-de-artigo)
     - [Tela - Pesquisa](#tela---pesquisa)
@@ -253,6 +254,11 @@ A tela de cadastro de usuário é uma janela modal que aparece após o botão "N
 A tela de perfil é onde as informações da conta do usuário são exibidas. Para acessar essa tela, o usuário deve, após realizar o login no site, clicar no botão "Favoritos" no menu horizontal e, depois de ser redirecionado para outra tela, deve clicar no botão "Perfil".
 
 > <img src="images/perfil.png">
+
+### Tela - Artigos Favoritos
+A tela de artigos favoritos mostram todos os artigos que o usuário favoritou. Para fazer isso, basta o usuário clicar na estrela ao lado do artigo, quando este estiver aberto na tela de exibir artigo.
+
+> <img src="images/favoritos.png">
 
 ### Tela - Administrador
 A tela do administrador é uma tela disponível apenas para usuários administradores, que serve para que esses usuários possam realizar alterações no site como, por exemplo cadastrar um novo artigo ou uma nova pergunta e resposta do FAQ.
