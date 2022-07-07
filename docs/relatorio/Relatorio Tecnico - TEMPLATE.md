@@ -12,7 +12,6 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
   <li>Eduardo Oliveira Coelho</li>
   <li>Beatriz Fulgencio da Cunha Menezes</li>
   <li>Gabriel Ribeiro Todt Ferreira</li>
-  <li>Davi de Lima Vieira Lacerda</li>
 </ul>
 
 # Estrutura do Documento
@@ -26,19 +25,19 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
   - [Justificativa](#justificativa)
   - [Público-Alvo](#público-alvo)
 - [Especificações do Projeto](#especificações-do-projeto)
-  - [Personas e Mapas de Empatia](#personas-e-mapas-de-empatia)
+  - [Personas](#personas-e-mapas-de-empatia)
   - [Histórias de Usuários](#histórias-de-usuários)
   - [Requisitos](#requisitos)
     - [Requisitos Funcionais](#requisitos-funcionais)
     - [Requisitos não Funcionais](#requisitos-não-funcionais)
   - [Restrições](#restrições)
-- [Projeto de Interface](#projeto-de-interface)
-  - [User Flow](#user-flow)
-  - [Wireframes](#wireframes)
 - [Metodologia](#metodologia)
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
+- [Projeto de Interface](#projeto-de-interface)
+  - [User Flow](#user-flow)
+  - [Wireframes](#wireframes)
 - [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -77,7 +76,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 > era mais restrito, antes da popularização da internet, encontram, hoje, dificuldades para se
 > adaptar a uma nova realidade tão digital. Esse novo cenário impõe aos mais velhos a
 > necessidade de se conectar à internet para contactar amigos e família, para trabalhar ou 
-> para acessar as notícias.
+> para acessar os artigos.
 >
 
 ## Público-Alvo
@@ -121,17 +120,17 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Site com informações baseadas em pesquisas para auxiliar os idosos e facilitar o acesso em sites/aplicativos | ALTA | 
-|RF-002| Criação de um FAQ com respostas prontas para as principais dúvidas   | MÉDIA |
-|RF-003| Passo a passo de atividades diárias: como acessar bancos, sites de compras, etc   | MÉDIA |
-|RF-004| Exemplos práticos de cada item descrito   | MÉDIA |
-|RF-005| Barra de pesquisa e filtros para facilitar a busca por artigos específicos    | MÉDIA |
-|RF-006| O site deve aceitar comandos de voz para facilitar a interação do usuário   | MÉDIA |
-|RF-007| Criar vídeos que complementam os textos   | BAIXA |
-|RF-008| Criação de um guia para cuidadores, para que esses possam auxiliar no aprendizado dos idosos   | BAIXA |
-|RF-009| Criação de fóruns de usuários   | MÉDIA |
-|RF-0010| Tutoriais para evitar cair em golpes e em fake news   | BAIXA |
-|RF-0011| Salvar artigos preferidos   | BAIXA |
+|RF-001| Cadastro de artigos | BAIXA | 
+|RF-002| Exibição de artigos  | BAIXA |
+|RF-003| Cadastro do FAQ  | BAIXA |
+|RF-004| Exibição do FAQ  | BAIXA |
+|RF-005| Cadastro do usuário  | BAIXA |
+|RF-006| Login  | MÉDIA |
+|RF-007| Exibição do perfil  | BAIXA |
+|RF-008| Página de pesquisa  | MÉDIA |
+|RF-009| Favoritar artigos  | MÉDIA |
+|RF-0010| Exibição de artigos aleatórios  | BAIXA |
+|RF-0011| Página de Categoria  | BAIXA |
 
 ### Requisitos não Funcionais
 
@@ -139,10 +138,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Dividir o site em seções: informações do projeto, lembretes, configurações, dia-a-dia, cuidados | ALTA | 
-|RNF-002| Design acessível: Fontes grandes, permitir maior zoom | ALTA | 
-|RNF-003| Colocar dropdown explicativo nas seções | MÉDIA | 
-|RNF-004| Cores não muito fortes, confortáveis para os olhos do usuário | BAIXA |
+|RNF-001| Template | ALTA | 
 
 ## Restrições
 
