@@ -212,7 +212,53 @@ conduzida, por onde ela passa até retornar uma resposta ao usuário.
 ### Tela - Home Page
 A Home Page é a página inicial do site, onde mostra as informações principais do  nosso projeto como o nosso objetivo, nossas motivações, e quem nós somos. A página inicial possui uma barra de navegação que está presente em todas as outras telas do site disponíveis para usuários. 
 
-> <img src="images/Group 27diagrama.png">
+> <img src="images/home page.png">
+
+### Tela - Categorias
+A tela de categorias é uma tela que exibe todas os artigos de uma determinada categoria que foi selecionada pelo usuário clicando em um dos botões presentes na barra de navegação.
+
+> <img src="images/categoria.png">
+
+### Tela - Exibição de Artigo
+A tela de exibição de artigo é  uma tela que exibe um artigo específico que foi selecionado pelo usuário. Essa tela exibe todo o texto do artigo, uma thumbnail e um vídeo postado em nosso canal do youtube exemplificandoo que está escrito no texto do artigo.
+
+> <img src="images/artigo.png">
+
+### Tela - FAQ
+A tela do FAQ é uma tela que exibe algumas perguntas comuns sobre a funcionalidade do site com respostas criadas por nós, criadores do site. 
+
+> <img src="images/faq.png">
+
+### Tela - Login
+A tela de login é uma tela que aparece após o usuário clicar no botão "Login", presente na barra de tarefas. Nessa tela, você possui a opção de entrar em uma conta existente, inserindo seu usuário e sua senha ou criar um novo usuário clicando no botão "Novo Usuário". Além disso, você pode clicar no botão "Voltar", e você será redirecionado para a tela inicial do site.
+
+> <img src="images/login.png">
+
+### Tela - Cadastro de Usuário
+A tela de cadastro de usuário é uma janela modal que aparece após o botão "Novo Usuário", da tela de login for clicado. Essa janela modal pede para o usuário inserir algumas informações pessoais para que possa ser cadastrado em nosso site. Após inserir as informações, basta clicar no botão "Salvar" e realizar o login.
+
+> <img src="images/cadastro usuario.png">
+
+### Tela - Perfil
+A tela de perfil éonde as informações da conta do usuário são exibidas. Para acessar essa tela, o usuário deve, após realizar o login no site, clicar no botão "Favoritos", no menu horizontal e, depois de ser redirecionado para outra tela, deve clicar no botão "Perfil".
+
+> <img src="images/perfil.png">
+
+### Tela - Administrador
+A tela do administrador é uma tela disponível apenas para usuários administradores, que serve para que esses usuários possam realizar alterações no site como, por exemplo cadastrar um novo artigo ou uma nova pergunta e resposta do FAQ.
+
+> <img src="images/adm.png">
+
+### Tela - Cadastro de Artigo
+A tela de cadastro de artigo é uma das telas disponíveis apenas para administradores. Essa tela serve para o administrador cadastrar um novo artigo no site, inserindo todas as informações que aparecem na tela de exibição de artigo.
+
+> <img src="images/cadastro artigo.png">
+
+### Tela - Pesquisa
+A tela de pesquisa disponibiliza a função de pesquisar por um assunto específico. Para acessar essa tela, basta clicar no ícone de lupa no menu horizontal do site.
+
+> <img src="images/pesquisa.png">
+
 
 ## Arquitetura da solução
 
