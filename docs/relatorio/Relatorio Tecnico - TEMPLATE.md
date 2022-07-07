@@ -120,17 +120,17 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Cadastro de artigos | BAIXA | 
-|RF-002| Exibição de artigos  | BAIXA |
-|RF-003| Cadastro do FAQ  | BAIXA |
-|RF-004| Exibição do FAQ  | BAIXA |
-|RF-005| Cadastro do usuário  | BAIXA |
-|RF-006| Login  | MÉDIA |
-|RF-007| Exibição do perfil  | BAIXA |
-|RF-008| Página de pesquisa  | MÉDIA |
-|RF-009| Favoritar artigos  | MÉDIA |
-|RF-0010| Exibição de artigos aleatórios  | BAIXA |
-|RF-0011| Página de Categoria  | BAIXA |
+|RF-01| Cadastro de artigos | BAIXA | 
+|RF-02| Exibição de artigos  | BAIXA |
+|RF-03| Cadastro do FAQ  | BAIXA |
+|RF-04| Exibição do FAQ  | BAIXA |
+|RF-05| Cadastro do usuário  | BAIXA |
+|RF-06| Login  | MÉDIA |
+|RF-07| Exibição do perfil  | BAIXA |
+|RF-08| Página de pesquisa  | MÉDIA |
+|RF-09| Favoritar artigos  | MÉDIA |
+|RF-010| Exibição de artigos aleatórios  | BAIXA |
+|RF-011| Página de Categoria  | BAIXA |
 
 ### Requisitos não Funcionais
 
@@ -138,7 +138,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Template | ALTA | 
+|RNF-01| Template | ALTA | 
 
 ## Restrições
 
@@ -148,6 +148,38 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 |--|-------------------------------------------------------|
 |01| O site deve ser desenvolvido com as habilidades adquiridas no primeiro semestre do curso |
 |02| O trabalho tem a data de entrega até o final do semestre        |
+
+# Metodologia
+
+> A metodologia do processo se baseia na organização do grupo e nas ferramentas utilizadas para a realização do trabalho.
+
+
+## Divisão de Papéis
+
+| Aluno  | Função              |
+|-----------|-------------------------|
+| Ana Beatriz Braz  | Design & Organiza funções e horários |
+| Artur Ricardo Martins Drummond Azevedo  | Front-End | 
+| Beatriz Fulgencio da Cunha Menezes | Design & Organiza funções e horários |
+| Brenno Augusto Herculano dos Santos | Cria novas features e ajuda no front-end |
+| Eduardo Oliveira Coelho | Front-End |
+| Gabriel Ribeiro Todt Ferreira | Front-End |
+
+>
+> **Links Úteis**:
+> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
+> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+
+
+## Ferramentas
+
+| Ambiente  | Plataforma              |Link de Acesso |
+|-----------|-------------------------|---------------|
+|Documentos do projeto  | Google Docs |  https://docs.google.com/document/d/1qgYBMHY91sYjbmvIANGuxynerLZylI9V24V_Agck1uE/edit?pli=1# | 
+|Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t3-g7 | 
+|Gerenciamento do Projeto | Trello |  https://trello.com/invite/b/y2NQIEZo/2b4fe119c04ffdc0287878d040b8b62a/sprint-1 | 
+|Projeto de Interface e  Wireframes | Figma | https://www.figma.com/file/lQZHCFeZFqmCXMISXtrOEJ/Untitled?node-id=0%3A1  | 
+|Design Thinking | Miro | https://miro.com/app/board/uXjVOBuUuE4=/  |
 
 # Projeto de Interface
 
@@ -172,38 +204,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 
 
-# Metodologia
 
-> A metodologia do processo se baseia na organização do grupo e nas ferramentas utilizadas para a realização do trabalho.
-
-
-## Divisão de Papéis
-
-| Aluno  | Função              |
-|-----------|-------------------------|
-| Ana Beatriz Braz  | Design & Organiza funções e horários |
-| Artur Ricardo Martins Drummond Azevedo  | Front-End | 
-| Beatriz Fulgencio da Cunha Menezes | Design & Organiza funções e horários |
-| Brenno Augusto Herculano dos Santos | Cria novas features e ajuda no front-end |
-| Davi de Lima Vieira Lacerda | Front-End |
-| Eduardo Oliveira Coelho | Front-End |
-| Gabriel Ribeiro Todt Ferreira | Front-End |
-
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
-
-## Ferramentas
-
-| Ambiente  | Plataforma              |Link de Acesso |
-|-----------|-------------------------|---------------|
-|Documentos do projeto  | Google Docs |  https://docs.google.com/document/d/1qgYBMHY91sYjbmvIANGuxynerLZylI9V24V_Agck1uE/edit?pli=1# | 
-|Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t3-g7 | 
-|Gerenciamento do Projeto | Trello |  https://trello.com/invite/b/y2NQIEZo/2b4fe119c04ffdc0287878d040b8b62a/sprint-1 | 
-|Projeto de Interface e  Wireframes | Figma | https://www.figma.com/file/lQZHCFeZFqmCXMISXtrOEJ/Untitled?node-id=0%3A1  | 
-|Design Thinking | Miro | https://miro.com/app/board/uXjVOBuUuE4=/  |
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
