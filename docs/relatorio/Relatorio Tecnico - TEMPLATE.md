@@ -53,53 +53,53 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 ## Problema
 
-> O problema que se busca resolver com este projeto é a dificuldade que grande
->  parte dos idosos sente em acessar a internet com segurança e sabendo utilizar seus recursos e facilidades.
->
+O problema que se busca resolver com este projeto é a dificuldade que grande
+parte dos idosos sente em acessar a internet com segurança e sabendo utilizar seus recursos e facilidades.
+
 
 ## Objetivos
 
-> O objetivo geral deste trabalho é a criação de um site informativo que sirva como um guia 
-> para que os idosos possam, com mais facilidade, navegar pela internet.
-> 
-> Como objetivos específicos, podemos ressaltar:
-> 
-> - Fornecer funcionalidades que permitam maior acessibilidade dentro e fora do site.
-> - Ensinar essas pessoas a identificar golpes e fake news.
-> - Facilitar a execução de tarefas do dia a dia de idosos por meio da internet.
-> 
+O objetivo geral deste trabalho é a criação de um site informativo que sirva como um guia 
+para que os idosos possam, com mais facilidade, navegar pela internet.
+ 
+Como objetivos específicos, podemos ressaltar:
+
+  - Fornecer funcionalidades que permitam maior acessibilidade dentro e fora do site.
+  - Ensinar essas pessoas a identificar golpes e fake news.
+  - Facilitar a execução de tarefas do dia a dia de idosos por meio da internet.
+ 
 
 ## Justificativa
 
-> Diferentemente das novas gerações que já nasceram com os recursos tecnológicos 
-> contidos no cotidiano, pessoas que nasceram em uma época na qual o acesso à tecnologia 
-> era mais restrito, antes da popularização da internet, encontram, hoje, dificuldades para se
-> adaptar a uma nova realidade tão digital. Esse novo cenário impõe aos mais velhos a
-> necessidade de se conectar à internet para contactar amigos e família, para trabalhar ou 
-> para acessar os artigos.
->
+Diferentemente das novas gerações que já nasceram com os recursos tecnológicos 
+contidos no cotidiano, pessoas que nasceram em uma época na qual o acesso à tecnologia 
+era mais restrito, antes da popularização da internet, encontram, hoje, dificuldades para se
+adaptar a uma nova realidade tão digital. Esse novo cenário impõe aos mais velhos a
+necessidade de se conectar à internet para contactar amigos e família, para trabalhar ou 
+para acessar os artigos.
+
 
 ## Público-Alvo
 
-> O foco deste trabalho está nos idosos que sentem dificuldade em viver em um cenário tão tecnológico e digital. Sendo assim, o público alvo pode ser definido como a terceira idade, configurada por pessoas com mais de 65 anos, que buscam aprender a utilizar a internet e suas principais ferramentas de acessibilidade para facilitar as tarefas do dia a dia. Além disso, os cuidadores e as famílias têm papel fundamental no projeto, visto que poderão auxiliar o grupo em foco no primeiro contato com  a plataforma. 
+O foco deste trabalho está nos idosos que sentem dificuldade em viver em um cenário tão tecnológico e digital. Sendo assim, o público alvo pode ser definido como a terceira idade, configurada por pessoas com mais de 65 anos, que buscam aprender a utilizar a internet e suas principais ferramentas de acessibilidade para facilitar as tarefas do dia a dia. Além disso, os cuidadores e as famílias têm papel fundamental no projeto, visto que poderão auxiliar o grupo em foco no primeiro contato com  a plataforma. 
  
 # Especificações do Projeto
 
-> Foi feita uma pesquisa com idosos e cuidadores, a qual tinha como objetivo identificar os principais aspectos que motivam e que desmotivam os primeiros a utilizarem a internet e as dificuldades dos segundos de solucionar essa dificuldade. A partir dos resultados obtidos, foram elaboradas três personas, duas delas representando idosos e uma representando o cuidador.
+Foi feita uma pesquisa com idosos e cuidadores, a qual tinha como objetivo identificar os principais aspectos que motivam e que desmotivam os primeiros a utilizarem a internet e as dificuldades dos segundos de solucionar essa dificuldade. A partir dos resultados obtidos, foram elaboradas três personas, duas delas representando idosos e uma representando o cuidador.
 
 ## Personas e Mapas de Empatia
 
-> As personas levantadas durante o processo de entendimento do problema são apresentadas nas figuras que se seguem.
-> 
-> **Exemplo de Persona**
-> 
+As personas levantadas durante o processo de entendimento do problema são apresentadas nas figuras que se seguem.
+
+**Exemplo de Persona**
+
 > <img src="images/persona1.png" width="95%" height="80%">
 > <img src="images/persona2.png" width="95%" height="80%">
 > <img src="images/persona3.png" width="95%" height="80%">
 
 ## Histórias de Usuários
 
-> A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
@@ -111,12 +111,13 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 |Nelson       | saber utilizar com segurança as redes sociais                  | conhecer pessoas com as mesmas visões políticas que as suas |
 |Roberta       | encontrar aplicativos de confiança                  | ajudá-la a controlar o horário dos remédios de cada paciente e a controlar suas obrigações |
 |Roberta       | encontrar canais no Youtube sobre como realizar tarefas básicas digitalmente                  | auxiliar a ensinar para os idosos como navegar pela internet |
+
 ## Requisitos
 
-> O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades de interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
-> 
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades de interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
+
 ### Requisitos Funcionais
-> A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
@@ -134,7 +135,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 ### Requisitos não Funcionais
 
-> A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
@@ -142,7 +143,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 ## Restrições
 
-> As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
@@ -151,7 +152,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 # Metodologia
 
-> A metodologia do processo se baseia na organização do grupo e nas ferramentas utilizadas para a realização do trabalho.
+A metodologia do processo se baseia na organização do grupo e nas ferramentas utilizadas para a realização do trabalho.
 
 
 ## Divisão de Papéis
@@ -164,11 +165,6 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 | Brenno Augusto Herculano dos Santos | Cria novas features e ajuda no front-end |
 | Eduardo Oliveira Coelho | Front-End |
 | Gabriel Ribeiro Todt Ferreira | Front-End |
-
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 
 ## Ferramentas
@@ -183,89 +179,85 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 # Projeto de Interface
 
-> Foi desenvolvido um projeto de interface que facilita a acessibilidade dos idosos e dos cuidadores, com ferramentas e design de uso simples. O projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
+Foi desenvolvido um projeto de interface que facilita a acessibilidade dos idosos e dos cuidadores, com ferramentas e design de uso simples. O projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis.
 
 ## User Flow
 
-> O diagrama apresentado na Figura 2 mostra o fluxo de interação do usuário (user flow) pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue.
->  
-> <img src="images/Userflow.png" width="100%" height="100%">
+O diagrama apresentado na Figura 2 mostra o fluxo de interação do usuário (user flow) pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue.
+
+> <img src="images/print userflow.png" widht="100%" height="100%" >
 
 
 
 ## Wireframes
 
-> Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura 3. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura 3. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
 
 > <img src="images/Wireframe 2.png" width="100%" height="90%">
 > <img src="images/Wireframe 3.png" width="100%" height="90%">
 
 
 
-
-
-
-
-
 # Projeto da Solução
 
->Nesta seção são apresentados os detalhes técnicos da solução criada pelo grupo, tratando da Arquitetura da Solução, as estruturas de dados e as telas já implementadas.
+Nesta seção são apresentados os detalhes técnicos da solução criada pelo grupo, tratando da Arquitetura da Solução, as estruturas de dados e as telas já implementadas.
 
 ## Tecnologias Utilizadas
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> ### Tela - Home Page
-> 
+Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
+problema, ou seja, implementar a sua solução. Liste todas as
+tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
+frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+Apresente também uma figura explicando como as tecnologias estão
+relacionadas ou como uma interação do usuário com o sistema vai ser
+conduzida, por onde ela passa até retornar uma resposta ao usuário.
+
+### Tela - Home Page
+
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+A solução implementada conta com os seguintes módulos:
+  1. **Navegador** - Interface básica do sistema 
+     - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+     - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+       - **Cadastro e Login** - informações do usuário para entrar na conta
+       - **Cadastro de Artigo e do FAQ** - adicionar novas informações ao site
+       - **Favoritos** - lista de artigos mantidos para leitura e acesso posterior
+       - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+> <img src="images/Group 27diagrama.png">
 
 
 # Avaliação da Aplicação
 
-> O processo de realização dos testes da solução desenvolvida está documentado na seção que se 
-> segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos
-> testes realizados.
+O processo de realização dos testes da solução desenvolvida está documentado na seção que se 
+segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos
+testes realizados.
 
-> Testes de Software:
-> * CT-01 - Visualizar artigos cadastrados
-> * CT-02 - Cadastro e Exibição do FAQ
-> * CT-03 - Cadastro do novo usuário, login e exibição do perfil
-> * CT-04 - Visualizar artigos favoritos
-> * CT-05 - Página de pesquisa
+Testes de Software:
+* CT-01 - Visualizar artigos cadastrados
+* CT-02 - Cadastro e Exibição do FAQ
+* CT-03 - Cadastro do novo usuário, login e exibição do perfil
+* CT-04 - Visualizar artigos favoritos
+* CT-05 - Página de pesquisa
 
 
 ## Plano de Testes
 
-> O processo de realização dos testes da solução desenvolvida está documentado na seção que se
-> segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos
-> testes realizados.
+O processo de realização dos testes da solução desenvolvida está documentado na seção que se
+segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos
+testes realizados.
 
-> Requisitos para realização do teste:
->   * Site publicado na Internet
->   * Navegador da Internet - Chrome, Firefox ou Edge
+Requisitos para realização do teste:
+  * Site publicado na Internet
+  * Navegador da Internet - Chrome, Firefox ou Edge
 
-> Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
+Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
 | Caso de Teste  | **CT-01 - Visualizar artigos cadastrados**   |
 |-----------|-------------------------|
-| Requisitos Associados  | * RF-01 - Cadastro de artigos 
-|* RF-02 - Exibição de artigos|
+| Requisitos Associados  | * RF-01 - Cadastro de artigos * RF-02 - Exibição de artigos|
 |* RF-10 - Exibição de artigos aleatórios|
 |* RF-11 - Página de categoria|
 | Artur Ricardo Martins Drummond Azevedo  | Front-End | 
@@ -282,29 +274,29 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+Comente sobre as ferramentas de testes utilizadas.
+
+**Links Úteis**:
+  - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+  - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Registros de Testes
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+Discorra sobre os resultados do teste. Ressaltando pontos fortes e
+fracos identificados na solução. Comente como o grupo pretende atacar
+esses pontos nas próximas iterações. Apresente as falhas detectadas e
+as melhorias geradas a partir dos resultados obtidos nos testes.
 
 
 # Referências
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+Inclua todas as referências (livros, artigos, sites, etc) utilizados
+no desenvolvimento do trabalho.
+
+**Links Úteis**:
+  - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
+  - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
