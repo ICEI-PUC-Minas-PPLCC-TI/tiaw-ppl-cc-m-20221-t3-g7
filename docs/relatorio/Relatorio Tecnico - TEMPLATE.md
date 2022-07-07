@@ -220,7 +220,7 @@ A tela de categorias é uma tela que exibe todas os artigos de uma determinada c
 > <img src="images/categoria.png">
 
 ### Tela - Exibição de Artigo
-A tela de exibição de artigo é  uma tela que exibe um artigo específico que foi selecionado pelo usuário. Essa tela exibe todo o texto do artigo, uma thumbnail e um vídeo postado em nosso canal do youtube exemplificandoo que está escrito no texto do artigo.
+A tela de exibição de artigo é  uma tela que exibe um artigo específico que foi selecionado pelo usuário. Essa tela exibe todo o texto do artigo, uma thumbnail e um vídeo postado em nosso canal do youtube exemplificando o que está escrito no texto do artigo.
 
 > <img src="images/artigo.png">
 
@@ -230,17 +230,17 @@ A tela do FAQ é uma tela que exibe algumas perguntas comuns sobre a funcionalid
 > <img src="images/faq.png">
 
 ### Tela - Login
-A tela de login é uma tela que aparece após o usuário clicar no botão "Login", presente na barra de tarefas. Nessa tela, você possui a opção de entrar em uma conta existente, inserindo seu usuário e sua senha ou criar um novo usuário clicando no botão "Novo Usuário". Além disso, você pode clicar no botão "Voltar", e você será redirecionado para a tela inicial do site.
+A tela de login é uma tela que aparece após o usuário clicar no botão "Login", presente no menu horizontal. Nessa tela, você possui a opção de entrar em uma conta existente, inserindo seu usuário e sua senha ou criar um novo usuário clicando no botão "Novo Usuário". Além disso, você pode clicar no botão "Voltar", e você será redirecionado para a tela inicial do site.
 
 > <img src="images/login.png">
 
 ### Tela - Cadastro de Usuário
-A tela de cadastro de usuário é uma janela modal que aparece após o botão "Novo Usuário", da tela de login for clicado. Essa janela modal pede para o usuário inserir algumas informações pessoais para que possa ser cadastrado em nosso site. Após inserir as informações, basta clicar no botão "Salvar" e realizar o login.
+A tela de cadastro de usuário é uma janela modal que aparece após o botão "Novo Usuário", da tela de login ser clicado. Essa janela modal pede para o usuário inserir algumas informações pessoais para que possa ser cadastrado em nosso site. Após inserir as informações, basta clicar no botão "Salvar" e realizar o login.
 
 > <img src="images/cadastro usuario.png">
 
 ### Tela - Perfil
-A tela de perfil éonde as informações da conta do usuário são exibidas. Para acessar essa tela, o usuário deve, após realizar o login no site, clicar no botão "Favoritos", no menu horizontal e, depois de ser redirecionado para outra tela, deve clicar no botão "Perfil".
+A tela de perfil é onde as informações da conta do usuário são exibidas. Para acessar essa tela, o usuário deve, após realizar o login no site, clicar no botão "Favoritos" no menu horizontal e, depois de ser redirecionado para outra tela, deve clicar no botão "Perfil".
 
 > <img src="images/perfil.png">
 
