@@ -38,7 +38,6 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 - [Projeto de Interface](#projeto-de-interface)
   - [User Flow](#user-flow)
   - [Wireframes](#wireframes)
-- [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da solução](#arquitetura-da-solução)
@@ -257,20 +256,42 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
 | Caso de Teste  | **CT-01 - Visualizar artigos cadastrados** |
 |----------------|--------------------------------------------|
-| Requisitos Associados  | RF-01, RF-02, RF-10, RF-11 |
+| Requisitos Associados  | **RF-01** - Cadastro de artigos. <br> **RF-02** - Exibição de artigos. <br> **RF-10** - Exibição de artigos aleatórios. <br> **RF-11** - Página de categoria. |
 | Objetivos do teste  | Verificar se os artigos estão sendo devidamente adicionados nas páginas após o cadastro. | 
-| Passos | 
+| Passos |  **1.** Acessar a página principal do site. <br> **2.** Logar na conta de administrador (admin, 123). <br> **3.** Clicar no botão “ADMTESTE”. <br> **4.** Clicar no botão “Cadastrar artigo”. <br> **5.** Fazer o cadastro de um novo artigo, preenchendo os campos pedidos na página. <br> **6.** Voltar para a página inicial do site. <br> **7.** Verificar se o novo artigo está sendo exibido entre os artigos aleatórios. <br> **8.** Abrir a página da categoria do novo artigo. <br> **9.** Verificar se o novo artigo está presente na página da categoria selecionada. <br> **10.** Clicar no novo artigo. <br> **11.** Verificar se o novo artigo foi aberto em uma página, sendo unicamente exibida, com vídeo, imagem e texto. <br> |
+| Critérios de Êxito | As páginas de exibição de artigo devem exibir o novo artigo criado através do cadastro, contendo todas as informações inseridas. |
 
 
-## Ferramentas de Testes (Opcional)
+| Caso de Teste  | **CT-02 - Cadastro e Exibição do FAQ** |
+|----------------|----------------------------------------|
+| Requisitos Associados  | **RF-03** - Cadastro do FAQ. <br> **RF-04** - Exibição do FAQ. |
+| Objetivos do teste  | Verificar se as perguntas e respostas cadastradas são adicionadas à página do FAQ. O cadastro só deve ser possível caso o usuário logado seja um administrador. | 
+| Passos |  **1.** Entre na página inicial do site. <br> **2.** Clique em “Login” no menu horizontal. <br> **3.** Logue com o usuário “admin” e a senha “123”. <br> **4.** Clique em “ADMTESTE”. <br> **5.** Clique em “Cadastro do FAQ”. <br> **6.** Preencha a nova pergunta e a nova resposta. <br> **7.** Entre na página inicial do site. <br> **8.** Clique em “FAQ” no menu horizontal. |
+| Critérios de Êxito | A página do administrador deve exibir o cadastro da pergunta e da resposta e o botão de inserir. Além disso, tanto para o administrador quanto para o usuário, devem aparecer na página de FAQ todas as perguntas e respostas cadastradas. |
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-Comente sobre as ferramentas de testes utilizadas.
+| Caso de Teste  | **CT-03 - Cadastro do novo usuário, login e exibição do perfil** |
+|----------------|------------------------------------------------------------------|
+| Requisitos Associados  | **RF-09** - Cadastro de usuário. <br> **RF-06** - Login. <br> **RF-07** - Exibição do perfil. |
+| Objetivos do teste  | Verificar se o usuário cadastrado consegue logar no site e, posteriormente, acessar suas informações cadastrais. | 
+| Passos |  **1.** Entre na página inicial do site. <br> **2.** Clique em “Login” no menu horizontal. <br> **3.** Clique em “Novo Usuário”. <br> **4.** Preencha os dados cadastrais. <br> **5.** Clique em “Salvar”. <br> **6.** Clique em “Login” no menu horizontal. <br> **7.** Preencha as informações de login. <br> **8.** Clique em “Favoritos” no menu horizontal. <br> **9.** Clique em “Perfil” na barra lateral. |
+| Critérios de Êxito | Ao acessar a conta cadastrada e clicar no perfil, devem ser exibidas algumas das informações cadastrais, como nome completo, nome de usuário e e-mail. |
 
-**Links Úteis**:
-  - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-  - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+| Caso de Teste  | **CT-04 - Visualizar artigos favoritos** |
+|----------------|------------------------------------------|
+| Requisitos Associados  | **RF-09** - Favoritar artigos. |
+| Objetivos do teste  | Verificar se os artigos estão sendo favoritados e adicionados na página de artigos favoritos. | 
+| Passos |  **1.** Entre na página inicial do site. <br> **2.** Clique em “Login” no menu horizontal. <br> **3.** Realize seu login preenchendo os dados. <br> **4.** Abra alguma artigo específico. <br> **5.** Clique na estrela ao lado do título do artigo. <br> **6.** Clique no botão “Favoritos”, no menu horizontal. |
+| Critérios de Êxito | A página de favoritos deve exibir o artigo que foi favoritado pelo usuário durante o teste. |
+
+| Caso de Teste  | **CT-05 - Página de pesquisa** |
+|----------------|------------------------------------------------------------------|
+| Requisitos Associados  | **RF-08** -  Página de pesquisa. |
+| Objetivos do teste  | Verificar se as palavras-chave pesquisadas na barra de pesquisa retornam os resultados devidos. | 
+| Passos |  **1.** Entre na página inicial do site. <br> **2.** Clique no ícone de lupa no menu horizontal. <br> **3.** Digite algo que deseja pesquisar. |
+| Critérios de Êxito | O resultado da pesquisa deve ser compatível com o que foi buscado. Por exemplo, se for digitado “android” devem aparecer na tela apenas artigos relacionados a esse tema. |
+
+
 
 ## Registros de Testes
 
@@ -284,11 +305,8 @@ as melhorias geradas a partir dos resultados obtidos nos testes.
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A lista a seguir traz as referências utilizadas nesse trabalho:
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizados
-no desenvolvimento do trabalho.
+Já conhece os recursos de acessibilidade digital da EqualWeb e a função de cada um deles? - 2019. https://equalweb.com.br/recursos-de-acessibilidade-digital-da-equalweb-e-a-funcao-de-cada-um-deles/ - Acessado em: 01/04/2022
 
-**Links Úteis**:
-  - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-  - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+PRODEST - Programa Melhor Idades. 2019. https://prodest.es.gov.br/programa-melhor-idade - Acessado em: 01/04/2022
