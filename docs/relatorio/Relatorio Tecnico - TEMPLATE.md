@@ -209,7 +209,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+>Nesta seção são apresentados os detalhes técnicos da solução criada pelo grupo, tratando da Arquitetura da Solução, as estruturas de dados e as telas já implementadas.
 
 ## Tecnologias Utilizadas
 
