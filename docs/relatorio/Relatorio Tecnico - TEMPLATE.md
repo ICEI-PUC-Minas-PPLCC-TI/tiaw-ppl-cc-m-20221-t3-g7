@@ -221,7 +221,8 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 > relacionadas ou como uma interação do usuário com o sistema vai ser
 > conduzida, por onde ela passa até retornar uma resposta ao usuário.
 > 
-> <strong>Tela - Home Page <\strong>
+> ### Tela - Home Page
+> 
 
 ## Arquitetura da solução
 
@@ -237,25 +238,45 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> O processo de realização dos testes da solução desenvolvida está documentado na seção que se 
+> segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos
+> testes realizados.
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+> Testes de Software:
+> * CT-01 - Visualizar artigos cadastrados
+> * CT-02 - Cadastro e Exibição do FAQ
+> * CT-03 - Cadastro do novo usuário, login e exibição do perfil
+> * CT-04 - Visualizar artigos favoritos
+> * CT-05 - Página de pesquisa
+
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> O processo de realização dos testes da solução desenvolvida está documentado na seção que se
+> segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos
+> testes realizados.
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+> Requisitos para realização do teste:
+>   * Site publicado na Internet
+>   * Navegador da Internet - Chrome, Firefox ou Edge
+
+> Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
+
+| Caso de Teste  | **CT-01 - Visualizar artigos cadastrados**   |
+|-----------|-------------------------|
+| Requisitos Associados  | * RF-01 - Cadastro de artigos 
+|* RF-02 - Exibição de artigos|
+|* RF-10 - Exibição de artigos aleatórios|
+|* RF-11 - Página de categoria|
+| Artur Ricardo Martins Drummond Azevedo  | Front-End | 
+| Beatriz Fulgencio da Cunha Menezes | Design & Organiza funções e horários |
+| Brenno Augusto Herculano dos Santos | Cria novas features e ajuda no front-end |
+| Eduardo Oliveira Coelho | Front-End |
+| Gabriel Ribeiro Todt Ferreira | Front-End |
+
+
+
+
 
 ## Ferramentas de Testes (Opcional)
 
