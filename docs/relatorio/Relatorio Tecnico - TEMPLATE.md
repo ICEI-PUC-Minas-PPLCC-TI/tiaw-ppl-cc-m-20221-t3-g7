@@ -255,19 +255,11 @@ Requisitos para realização do teste:
 
 Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
-| Caso de Teste  | **CT-01 - Visualizar artigos cadastrados**   |
-|-----------|-------------------------|
-| Requisitos Associados  | * RF-01 - Cadastro de artigos * RF-02 - Exibição de artigos|
-|* RF-10 - Exibição de artigos aleatórios|
-|* RF-11 - Página de categoria|
-| Artur Ricardo Martins Drummond Azevedo  | Front-End | 
-| Beatriz Fulgencio da Cunha Menezes | Design & Organiza funções e horários |
-| Brenno Augusto Herculano dos Santos | Cria novas features e ajuda no front-end |
-| Eduardo Oliveira Coelho | Front-End |
-| Gabriel Ribeiro Todt Ferreira | Front-End |
-
-
-
+| Caso de Teste  | **CT-01 - Visualizar artigos cadastrados** |
+|----------------|--------------------------------------------|
+| Requisitos Associados  | RF-01, RF-02, RF-10, RF-11 |
+| Objetivos do teste  | Verificar se os artigos estão sendo devidamente adicionados nas páginas após o cadastro. | 
+| Passos | 
 
 
 ## Ferramentas de Testes (Opcional)
