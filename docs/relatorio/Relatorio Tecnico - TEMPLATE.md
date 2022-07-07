@@ -82,7 +82,7 @@ O foco deste trabalho está nos idosos que sentem dificuldade em viver em um cen
  
 # Especificações do Projeto
 
-Foi feita uma pesquisa com idosos e cuidadores, a qual tinha como objetivo identificar os principais aspectos que motivam e que desmotivam os primeiros a utilizarem a internet e as dificuldades dos segundos de solucionar essa dificuldade. A partir dos resultados obtidos, foram elaboradas três personas, duas delas representando idosos e uma representando o cuidador.
+Foi feita uma pesquisa com idosos e cuidadores, a qual tinha como objetivo identificar os principais aspectos que motivam e que desmotivam os primeiros a utilizarem a internet e as dificuldades dos cuidadores de solucionar essa dificuldade. A partir dos resultados obtidos, foram elaboradas três personas, duas delas representando idosos e uma representando o cuidador.
 
 ## Personas
 
@@ -118,17 +118,17 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01| Cadastro de artigos | BAIXA | 
-|RF-02| Exibição de artigos  | BAIXA |
+|RF-01| Cadastro de artigos | ALTA | 
+|RF-02| Exibição de artigos  | ALTA |
 |RF-03| Cadastro do FAQ  | BAIXA |
 |RF-04| Exibição do FAQ  | BAIXA |
-|RF-05| Cadastro do usuário  | BAIXA |
+|RF-05| Cadastro do usuário  | MÉDIA |
 |RF-06| Login  | MÉDIA |
 |RF-07| Exibição do perfil  | BAIXA |
 |RF-08| Página de pesquisa  | MÉDIA |
 |RF-09| Favoritar artigos  | MÉDIA |
 |RF-010| Exibição de artigos aleatórios  | BAIXA |
-|RF-011| Página de Categoria  | BAIXA |
+|RF-011| Página de Categoria  | MÉDIA |
 
 ### Requisitos não Funcionais
 
@@ -144,8 +144,8 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O site deve ser desenvolvido com as habilidades adquiridas no primeiro semestre do curso |
-|02| O trabalho tem a data de entrega até o final do semestre        |
+|RE-01| O site deve ser desenvolvido com as habilidades adquiridas no primeiro semestre do curso |
+|RE-02| O trabalho tem a data de entrega até o final do semestre        |
 
 # Metodologia
 
@@ -210,7 +210,9 @@ relacionadas ou como uma interação do usuário com o sistema vai ser
 conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
 ### Tela - Home Page
+A Home Page é a página inicial do site, onde mostra as informações principais do  nosso projeto como o nosso objetivo, nossas motivações, e quem nós somos. A página inicial possui uma barra de navegação que está presente em todas as outras telas do site disponíveis para usuários. 
 
+> <img src="images/Group 27diagrama.png">
 
 ## Arquitetura da solução
 
