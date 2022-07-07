@@ -46,7 +46,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
     - [Tela - Login](#tela---login)
     - [Tela - Cadastro de Usuário](#tela---cadastro-de-usuário)
     - [Tela - Perfil](#tela---perfil)
-    - [Tela - Pesquisa](#tela---artigos-favoritos)
+    - [Tela - Favoritos](#tela---favoritos)
     - [Tela - Administrador](#tela---administrador)
     - [Tela - Cadastro de Artigo](#tela---cadastro-de-artigo)
     - [Tela - Pesquisa](#tela---pesquisa)
@@ -255,8 +255,8 @@ A tela de perfil é onde as informações da conta do usuário são exibidas. Pa
 
 > <img src="images/perfil.png">
 
-### Tela - Artigos Favoritos
-A tela de artigos favoritos mostram todos os artigos que o usuário favoritou. Para fazer isso, basta o usuário clicar na estrela ao lado do artigo, quando este estiver aberto na tela de exibir artigo.
+### Tela - Favoritos
+A tela de favoritos mostram todos os artigos que o usuário favoritou. Para fazer isso, basta o usuário clicar na estrela ao lado do título do artigo, quando este estiver aberto na tela de exibir artigo.
 
 > <img src="images/favoritos.png">
 
