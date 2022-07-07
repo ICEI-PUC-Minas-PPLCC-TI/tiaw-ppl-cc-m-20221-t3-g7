@@ -197,7 +197,6 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 > Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura 3. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
 
-> <img src="images/Wireframe 1.png" width="100%" height="90%">
 > <img src="images/Wireframe 2.png" width="100%" height="90%">
 > <img src="images/Wireframe 3.png" width="100%" height="90%">
 
@@ -206,7 +205,6 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 
 
 
-# **############## SPRINT 1 ACABA AQUI #############**
 
 
 # Projeto da Solução
