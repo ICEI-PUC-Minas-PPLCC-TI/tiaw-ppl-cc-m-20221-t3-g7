@@ -351,13 +351,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-fracos identificados na solução. Comente como o grupo pretende atacar
-esses pontos nas próximas iterações. Apresente as falhas detectadas e
-as melhorias geradas a partir dos resultados obtidos nos testes.
-
+Os testes obtiveram resultados satisfatórios, visto que os idosos que acessaram o site leram os artigos e assistiram aos vídeos e relataram ter tido maior facilidade em acessar os recursos e as ferramentas digitais que foram trabalhadas no projeto. Entretanto, alguns relatos mostram, também, pontos fracos da solução, como a impossibilidade de fazer sugestões e perguntas sobre os artigos, devido à inexistência de um campo de comentários, o qual deverá ser implementado nas próximas iterações. Ademais, algumas das sugestões retornadas pelos testes foram implementadas no sistema, como a criação de um FAQ.
 
 # Referências
 
