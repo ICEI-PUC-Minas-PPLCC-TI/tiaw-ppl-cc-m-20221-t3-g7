@@ -12,7 +12,6 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
 ## Alunos integrantes da equipe
 
 * Artur Ricardo Martins Drummond Azevedo
-* Davi de Lima Vieira Lacerda
 * Ana Beatriz Pessoa Braz
 * Brenno Augusto Herculano dos Santos
 * Eduardo Oliveira Coelho
