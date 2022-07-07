@@ -2,7 +2,7 @@
 <h1 align="center" id="landing-page">Falta de Acessibilidade de Idosos em Sites</h1> 
 <p align="center" id="badges">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=ATUALIZA%C3%87%C3%83O&message=ABRIL&color=blue&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=ATUALIZA%C3%87%C3%83O&message=JULHO&color=blue&style=for-the-badge"/>
   <img src="https://img.shields.io/static/v1?label=FERRAMENTAS&message=CANVAS%20e%20github&color=red&style=for-the-badge"/>
 </p>
 
