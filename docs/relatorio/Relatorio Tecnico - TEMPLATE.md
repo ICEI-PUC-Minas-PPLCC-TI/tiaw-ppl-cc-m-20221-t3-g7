@@ -51,6 +51,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
     - [Tela - Pesquisa](#tela---pesquisa)
     - [Tela - Favoritos](#tela---favoritos)
   - [Arquitetura da solução](#arquitetura-da-solução)
+- [Hospedagem](#hospedagem)
 - [Avaliação da Aplicação](#avaliação-da-aplicação)
   - [Plano de Testes](#plano-de-testes)
   - [Registros de Testes](#registros-de-testes)
@@ -283,6 +284,10 @@ A solução implementada conta com os seguintes módulos:
        - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
 > <img src="images/Group 27diagrama.png">
+
+# Hospedagem
+O site utiliza a plataforma do Repl.it como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: https://isenior30.gabrieltodt1.repl.co 
+
 
 
 # Avaliação da Aplicação
