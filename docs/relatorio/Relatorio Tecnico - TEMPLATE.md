@@ -343,7 +343,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Critérios de Êxito | O resultado da pesquisa deve ser compatível com o que foi buscado. Por exemplo, se for digitado “android” devem aparecer na tela apenas artigos relacionados a esse tema. |
 
 | Caso de Teste  | **CT-05 - Página de Favoritos** |
-|----------------|--------------------------------|
+|----------------|---------------------------------|
 | Requisitos Associados  | **RF-11** -  Página de favoritos. |
 | Objetivos do teste  | Verificar se os artigos favoritados pelo usuário logado são exibidos na página de favoritos. | 
 | Passos |  **1.** Entre na página inicial do site. <br> **2.** Clique em “Login” no menu horizontal. <br> **3.** Logue na sua conta. <br> **4.** Clique em algum artigo. <br> **5.** Favorite esse artigo clicando na estrela. <br> **6.** Clique em “Favoritos” no menu horizontal.|
