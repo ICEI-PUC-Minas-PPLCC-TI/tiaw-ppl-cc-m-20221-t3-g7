@@ -218,7 +218,7 @@ Para implementar a solução, foram utilizadas as linguagens HTML, CSS e JavaScr
 ### Tela - Home Page
 A Home Page é a página inicial do site, onde mostra as informações principais do  nosso projeto como o nosso objetivo, nossas motivações, e quem nós somos. A página inicial possui um menu horizontal que está presente em todas as outras telas do site disponíveis para usuários. Quando o usuário realizar login, o botão "Login" será substituído pelo botão "Favoritos".
 
-> <img src="images/home page.png" width="90%" height="60%">
+> <img src="images/home page.jpg" width="90%" height="60%">
 
 ### Tela - Categorias
 A tela de categorias é uma tela que exibe todas os artigos de uma determinada categoria que foi selecionada pelo usuário clicando em um dos botões presentes no menu horizontal.
