@@ -215,12 +215,12 @@ Nesta seção são apresentados os detalhes técnicos da solução criada pelo g
 Para implementar a solução, foram utilizadas as linguagens HTML, CSS e JavaScript. Além disso, serviços como GetBootstrap e Font Awesome também foram incluídos no projeto para facilitar a implementação do software.
 
 ### Tela - Home Page
-A Home Page é a página inicial do site, onde mostra as informações principais do  nosso projeto como o nosso objetivo, nossas motivações, e quem nós somos. A página inicial possui uma barra de navegação que está presente em todas as outras telas do site disponíveis para usuários. 
+A Home Page é a página inicial do site, onde mostra as informações principais do  nosso projeto como o nosso objetivo, nossas motivações, e quem nós somos. A página inicial possui um menu horizontal que está presente em todas as outras telas do site disponíveis para usuários. 
 
 > <img src="images/home page.png">
 
 ### Tela - Categorias
-A tela de categorias é uma tela que exibe todas os artigos de uma determinada categoria que foi selecionada pelo usuário clicando em um dos botões presentes na barra de navegação.
+A tela de categorias é uma tela que exibe todas os artigos de uma determinada categoria que foi selecionada pelo usuário clicando em um dos botões presentes no menu horizontal.
 
 > <img src="images/categoria.png">
 
@@ -266,7 +266,7 @@ A tela de pesquisa disponibiliza a função de pesquisar por um assunto específ
 > <img src="images/pesquisa.png">
 
 ### Tela - Favoritos
-A tela de favoritos exibe os artigos favoritos do usuário. Para favoritar uma notícia, basta o usuárioclicar na estrela ao lado do título de um artigo quando este estiver selecionado e exibido. Para acessar a tela de favoritos, o usuário deve clicar no botão "Favoritos", do menu horizontal. 
+A tela de favoritos exibe os artigos favoritos do usuário. Para favoritar uma notícia, basta o usuário clicar na estrela ao lado do título de um artigo quando este estiver selecionado e exibido. Para acessar a tela de favoritos, o usuário deve clicar no botão "Favoritos", do menu horizontal. 
 
 > <img src="images/favoritos.png">
 
