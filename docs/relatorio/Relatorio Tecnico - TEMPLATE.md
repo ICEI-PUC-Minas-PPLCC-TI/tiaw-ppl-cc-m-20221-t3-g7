@@ -212,13 +212,7 @@ Nesta seção são apresentados os detalhes técnicos da solução criada pelo g
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-problema, ou seja, implementar a sua solução. Liste todas as
-tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-Apresente também uma figura explicando como as tecnologias estão
-relacionadas ou como uma interação do usuário com o sistema vai ser
-conduzida, por onde ela passa até retornar uma resposta ao usuário.
+Para implementar a solução, foram utilizadas as linguagens HTML, CSS e JavaScript. Além disso, serviços como GetBootstrap e Font Awesome também foram incluídos no projeto para facilitar a implementação do software.
 
 ### Tela - Home Page
 A Home Page é a página inicial do site, onde mostra as informações principais do  nosso projeto como o nosso objetivo, nossas motivações, e quem nós somos. A página inicial possui uma barra de navegação que está presente em todas as outras telas do site disponíveis para usuários. 
