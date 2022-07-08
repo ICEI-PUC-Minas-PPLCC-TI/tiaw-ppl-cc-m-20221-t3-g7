@@ -228,7 +228,7 @@ A tela de categorias é uma tela que exibe todas os artigos de uma determinada c
 ### Tela - Exibição de Artigo
 A tela de exibição de artigo é  uma tela que exibe um artigo específico que foi selecionado pelo usuário. Essa tela exibe todo o texto do artigo, uma thumbnail e um vídeo postado em nosso canal do youtube exemplificando o que está escrito no texto do artigo.
 
-> <img src="images/artigo.png" width="100%" height="90%">
+> <img src="images/artigos.png" width="100%" height="90%">
 
 ### Tela - FAQ
 A tela do FAQ é uma tela que exibe algumas perguntas comuns sobre a funcionalidade do site com respostas criadas por nós, criadores do site. 
