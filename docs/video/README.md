@@ -16,5 +16,6 @@ A relação abaixo lista os vídeos feitos para o projeto:
    - https://www.youtube.com/watch?v=POr8t849Y_8&ab_channel=iSenior
 8. Como usar o uber para pedir corridas 
    - https://www.youtube.com/watch?v=w5E36lMdXqs&ab_channel=iSenior
- 
+9. Apresentação da plataforma iSenior
+   - https://www.youtube.com/watch?v=mYOv7AGS-pQ&ab_channel=iSenior
  
