@@ -302,7 +302,7 @@ Testes de Software:
 * CT-02 - Cadastro e exibição do FAQ
 * CT-03 - Cadastro do novo usuário, login e exibição do perfil
 * CT-04 - Página de pesquisa
-* CT-05 - Favoritos
+* CT-05 - Página de favoritos
 
 
 ## Plano de Testes
