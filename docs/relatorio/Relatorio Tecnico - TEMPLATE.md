@@ -293,8 +293,7 @@ Testes de Software:
 * CT-01 - Visualizar artigos cadastrados
 * CT-02 - Cadastro e Exibição do FAQ
 * CT-03 - Cadastro do novo usuário, login e exibição do perfil
-* CT-04 - Visualizar artigos favoritos
-* CT-05 - Página de pesquisa
+* CT-04 - Página de pesquisa
 
 
 ## Plano de Testes
@@ -332,14 +331,8 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Passos |  **1.** Entre na página inicial do site. <br> **2.** Clique em “Login” no menu horizontal. <br> **3.** Clique em “Novo Usuário”. <br> **4.** Preencha os dados cadastrais. <br> **5.** Clique em “Salvar”. <br> **6.** Clique em “Login” no menu horizontal. <br> **7.** Preencha as informações de login. <br> **8.** Clique em “Favoritos” no menu horizontal. <br> **9.** Clique em “Perfil” na barra lateral. |
 | Critérios de Êxito | Ao acessar a conta cadastrada e clicar no perfil, devem ser exibidas algumas das informações cadastrais, como nome completo, nome de usuário e e-mail. |
 
-| Caso de Teste  | **CT-04 - Visualizar artigos favoritos** |
-|----------------|------------------------------------------|
-| Requisitos Associados  | **RF-09** - Favoritar artigos. |
-| Objetivos do teste  | Verificar se os artigos estão sendo favoritados e adicionados na página de artigos favoritos. | 
-| Passos |  **1.** Entre na página inicial do site. <br> **2.** Clique em “Login” no menu horizontal. <br> **3.** Realize seu login preenchendo os dados. <br> **4.** Abra alguma artigo específico. <br> **5.** Clique na estrela ao lado do título do artigo. <br> **6.** Clique no botão “Favoritos”, no menu horizontal. |
-| Critérios de Êxito | A página de favoritos deve exibir o artigo que foi favoritado pelo usuário durante o teste. |
 
-| Caso de Teste  | **CT-05 - Página de pesquisa** |
+| Caso de Teste  | **CT-04 - Página de pesquisa** |
 |----------------|------------------------------------------------------------------|
 | Requisitos Associados  | **RF-08** -  Página de pesquisa. |
 | Objetivos do teste  | Verificar se as palavras-chave pesquisadas na barra de pesquisa retornam os resultados devidos. | 
