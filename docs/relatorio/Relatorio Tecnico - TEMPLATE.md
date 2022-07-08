@@ -217,58 +217,58 @@ Para implementar a solução, foram utilizadas as linguagens HTML, CSS e JavaScr
 ### Tela - Home Page
 A Home Page é a página inicial do site, onde mostra as informações principais do  nosso projeto como o nosso objetivo, nossas motivações, e quem nós somos. A página inicial possui um menu horizontal que está presente em todas as outras telas do site disponíveis para usuários. Quando o usuário realizar login, o botão "Login" será substituído pelo botão "Favoritos".
 
-> <img src="images/home page.png">
+> <img src="images/home page.png" width="90%" height="60%">
 
 ### Tela - Categorias
 A tela de categorias é uma tela que exibe todas os artigos de uma determinada categoria que foi selecionada pelo usuário clicando em um dos botões presentes no menu horizontal.
 
-> <img src="images/categoria.png">
+> <img src="images/categoria.png" width="90%" height="60%">
 
 ### Tela - Exibição de Artigo
 A tela de exibição de artigo é  uma tela que exibe um artigo específico que foi selecionado pelo usuário. Essa tela exibe todo o texto do artigo, uma thumbnail e um vídeo postado em nosso canal do youtube exemplificando o que está escrito no texto do artigo.
 
-> <img src="images/artigo.png">
+> <img src="images/artigo.png" width="90%" height="60%">
 
 ### Tela - FAQ
 A tela do FAQ é uma tela que exibe algumas perguntas comuns sobre a funcionalidade do site com respostas criadas por nós, criadores do site. 
 
-> <img src="images/faq.png">
+> <img src="images/faq.png" width="90%" height="60%">
 
 ### Tela - Login
 A tela de login é uma tela que aparece após o usuário clicar no botão "Login", presente no menu horizontal. Nessa tela, você possui a opção de entrar em uma conta existente, inserindo seu usuário e sua senha ou criar um novo usuário clicando no botão "Novo Usuário". Além disso, você pode clicar no botão "Voltar", e você será redirecionado para a tela inicial do site.
 
-> <img src="images/login.png">
+> <img src="images/login.png" width="90%" height="60%">
 
 ### Tela - Cadastro de Usuário
 A tela de cadastro de usuário é uma janela modal que aparece após o botão "Novo Usuário", da tela de login ser clicado. Essa janela modal pede para o usuário inserir algumas informações pessoais para que possa ser cadastrado em nosso site. Após inserir as informações, basta clicar no botão "Salvar" e realizar o login.
 
-> <img src="images/cadastro usuario.png">
+> <img src="images/cadastro usuario.png" width="90%" height="60%">
 
 ### Tela - Perfil
 A tela de perfil é onde as informações da conta do usuário são exibidas. Para acessar essa tela, o usuário deve, após realizar o login no site, clicar no botão "Favoritos" no menu horizontal e, depois de ser redirecionado para outra tela, deve clicar no botão "Perfil".
 
-> <img src="images/perfil.png">
+> <img src="images/perfil.png" width="90%" height="60%">
 
 
 ### Tela - Administrador
 A tela do administrador é uma tela disponível apenas para usuários administradores, que serve para que esses usuários possam realizar alterações no site como, por exemplo cadastrar um novo artigo ou uma nova pergunta e resposta do FAQ.
 
-> <img src="images/adm.png">
+> <img src="images/adm.png" width="90%" height="60%">
 
 ### Tela - Cadastro de Artigo
 A tela de cadastro de artigo é uma das telas disponíveis apenas para administradores. Essa tela serve para o administrador cadastrar um novo artigo no site, inserindo todas as informações que aparecem na tela de exibição de artigo.
 
-> <img src="images/cadastro artigo.png">
+> <img src="images/cadastro artigo.png" width="90%" height="60%">
 
 ### Tela - Pesquisa
 A tela de pesquisa disponibiliza a função de pesquisar por um assunto específico. Para acessar essa tela, basta clicar no ícone de lupa no menu horizontal do site.
 
-> <img src="images/pesquisa.png">
+> <img src="images/pesquisa.png" width="90%" height="60%">
 
 ### Tela - Favoritos
 A tela de favoritos exibe os artigos favoritos do usuário. Para favoritar uma notícia, basta o usuário clicar na estrela ao lado do título de um artigo quando este estiver selecionado e exibido. Para acessar a tela de favoritos, o usuário deve clicar no botão "Favoritos", do menu horizontal. 
 
-> <img src="images/favoritos.jpeg">
+> <img src="images/favoritos.jpeg" width="90%" height="60%">
 
 
 ## Arquitetura da solução
