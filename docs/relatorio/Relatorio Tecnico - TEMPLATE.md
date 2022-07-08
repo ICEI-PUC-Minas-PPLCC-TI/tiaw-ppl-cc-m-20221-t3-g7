@@ -215,7 +215,7 @@ Nesta seção são apresentados os detalhes técnicos da solução criada pelo g
 Para implementar a solução, foram utilizadas as linguagens HTML, CSS e JavaScript. Além disso, serviços como GetBootstrap e Font Awesome também foram incluídos no projeto para facilitar a implementação do software.
 
 ### Tela - Home Page
-A Home Page é a página inicial do site, onde mostra as informações principais do  nosso projeto como o nosso objetivo, nossas motivações, e quem nós somos. A página inicial possui um menu horizontal que está presente em todas as outras telas do site disponíveis para usuários. 
+A Home Page é a página inicial do site, onde mostra as informações principais do  nosso projeto como o nosso objetivo, nossas motivações, e quem nós somos. A página inicial possui um menu horizontal que está presente em todas as outras telas do site disponíveis para usuários. Quando o usuário realizar login, o botão "Login" será substituído pelo botão "Favoritos".
 
 > <img src="images/home page.png">
 
