@@ -279,7 +279,6 @@ A solução implementada conta com os seguintes módulos:
      - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
        - **Cadastro e Login** - informações do usuário para entrar na conta
        - **Cadastro de Artigo e do FAQ** - adicionar novas informações ao site
-       - **Favoritos** - lista de artigos mantidos para leitura e acesso posterior
        - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
 > <img src="images/Group 27diagrama.png">
