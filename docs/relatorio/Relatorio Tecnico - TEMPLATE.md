@@ -238,7 +238,7 @@ A tela do FAQ é uma tela que exibe algumas perguntas comuns sobre a funcionalid
 ### Tela - Login
 A tela de login é uma tela que aparece após o usuário clicar no botão "Login", presente no menu horizontal. Nessa tela, você possui a opção de entrar em uma conta existente, inserindo seu usuário e sua senha ou criar um novo usuário clicando no botão "Novo Usuário". Além disso, você pode clicar no botão "Voltar", e você será redirecionado para a tela inicial do site.
 
-> <img src="images/login.png" width="100%" height="90%">
+> <img src="images/ologin.png" width="100%" height="90%">
 
 ### Tela - Cadastro de Usuário
 A tela de cadastro de usuário é uma janela modal que aparece após o botão "Novo Usuário", da tela de login ser clicado. Essa janela modal pede para o usuário inserir algumas informações pessoais para que possa ser cadastrado em nosso site. Após inserir as informações, basta clicar no botão "Salvar" e realizar o login.
