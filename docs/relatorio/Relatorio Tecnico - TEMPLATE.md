@@ -139,6 +139,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF-08| Página de pesquisa  | MÉDIA |
 |RF-09| Exibição de artigos aleatórios  | BAIXA |
 |RF-010| Página de Categoria  | MÉDIA |
+|RF-011| Favoritar artigo  | MÉDIA |
 
 ### Requisitos não Funcionais
 
