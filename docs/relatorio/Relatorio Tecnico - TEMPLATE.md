@@ -269,7 +269,7 @@ A tela de pesquisa disponibiliza a função de pesquisar por um assunto específ
 ### Tela - Favoritos
 A tela de favoritos exibe os artigos favoritos do usuário. Para favoritar uma notícia, basta o usuário clicar na estrela ao lado do título de um artigo quando este estiver selecionado e exibido. Para acessar a tela de favoritos, o usuário deve clicar no botão "Favoritos", do menu horizontal. 
 
-> <img src="images/favoritos.jpeg" width="100%" height="90%">
+> <img src="images/favorito.jpeg" width="100%" height="90%">
 
 
 ## Arquitetura da solução
