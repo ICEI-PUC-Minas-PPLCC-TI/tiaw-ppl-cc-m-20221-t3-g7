@@ -286,7 +286,7 @@ A solução implementada conta com os seguintes módulos:
 > <img src="images/Group 27diagrama.png">
 
 # Hospedagem
-O site utiliza a plataforma do Repl.it como ambiente de hospedagem do projeto. O site é mantido no ambiente da URL: https://isenior30.gabrieltodt1.repl.co 
+O site utiliza a plataforma do Repl.it como ambiente de hospedagem do projeto. O site é mantido no ambiente da URL: https://isenior.beatrizfulgenci.repl.co/index.html
 
 
 
