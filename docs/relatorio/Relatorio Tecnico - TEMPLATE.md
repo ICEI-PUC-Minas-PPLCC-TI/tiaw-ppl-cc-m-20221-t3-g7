@@ -49,6 +49,7 @@ Diante disso, torna-se fundamental que existam ferramentas que auxiliem a tercei
     - [Tela - Administrador](#tela---administrador)
     - [Tela - Cadastro de Artigo](#tela---cadastro-de-artigo)
     - [Tela - Pesquisa](#tela---pesquisa)
+    - [Tela - Favoritos](#tela---favoritos)
   - [Arquitetura da solução](#arquitetura-da-solução)
 - [Avaliação da Aplicação](#avaliação-da-aplicação)
   - [Plano de Testes](#plano-de-testes)
@@ -269,6 +270,11 @@ A tela de pesquisa disponibiliza a função de pesquisar por um assunto específ
 
 > <img src="images/pesquisa.png">
 
+### Tela - Favoritos
+A tela de favoritos exibe os artigos favoritos do usuário. Para favoritar uma notícia, basta o usuárioclicar na estrela ao lado do título de um artigo quando este estiver selecionado e exibido. Para acessar a tela de favoritos, o usuário deve clicar no botão "Favoritos", do menu horizontal. 
+
+> <img src="images/favoritos.png">
+
 
 ## Arquitetura da solução
 
@@ -278,6 +284,7 @@ A solução implementada conta com os seguintes módulos:
      - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
        - **Cadastro e Login** - informações do usuário para entrar na conta
        - **Cadastro de Artigo e do FAQ** - adicionar novas informações ao site
+       - **Favoritos** - adicionar artigos favoritos ao perfil 
        - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
 > <img src="images/Group 27diagrama.png">
@@ -291,9 +298,10 @@ testes realizados.
 
 Testes de Software:
 * CT-01 - Visualizar artigos cadastrados
-* CT-02 - Cadastro e Exibição do FAQ
+* CT-02 - Cadastro e exibição do FAQ
 * CT-03 - Cadastro do novo usuário, login e exibição do perfil
 * CT-04 - Página de pesquisa
+* CT-05 - Favoritos
 
 
 ## Plano de Testes
@@ -343,7 +351,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
 ## Registros de Testes
 
-Os testes obtiveram resultados satisfatórios, visto que os idosos que acessaram o site leram os artigos e assistiram aos vídeos e relataram ter tido maior facilidade em acessar os recursos e as ferramentas digitais que foram trabalhadas no projeto. Entretanto, alguns relatos mostram, também, pontos fracos da solução, como a impossibilidade de fazer sugestões e perguntas sobre os artigos, devido à inexistência de um campo de comentários. A função de favoritar um artigo também foi testada, mas, por não funcionar de maneira devida, foi retirada do software. Essas funcionalidades deverão ser implementadas nas próximas iterações. Ademais, algumas das sugestões retornadas pelos testes foram implementadas no sistema, como a criação de um FAQ.
+Os testes obtiveram resultados satisfatórios, visto que os idosos que acessaram o site leram os artigos e assistiram aos vídeos e relataram ter tido maior facilidade em acessar os recursos e as ferramentas digitais que foram trabalhadas no projeto. Entretanto, alguns relatos mostram, também, pontos fracos da solução, como a impossibilidade de fazer sugestões e perguntas sobre os artigos, devido à inexistência de um campo de comentários. Essas funcionalidades deverão ser implementadas nas próximas iterações. Ademais, algumas das sugestões retornadas pelos testes foram implementadas no sistema, como a criação de um FAQ.
 
 # Referências
 
