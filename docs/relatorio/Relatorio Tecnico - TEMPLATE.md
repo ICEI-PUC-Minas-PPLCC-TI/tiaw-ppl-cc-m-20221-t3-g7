@@ -310,7 +310,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
 | Caso de Teste  | **CT-01 - Visualizar artigos cadastrados** |
 |----------------|--------------------------------------------|
-| Requisitos Associados  | **RF-01** - Cadastro de artigos. <br> **RF-02** - Exibição de artigos. <br> **RF-10** - Exibição de artigos aleatórios. <br> **RF-11** - Página de categoria. |
+| Requisitos Associados  | **RF-01** - Cadastro de artigos. <br> **RF-02** - Exibição de artigos. <br> **RF-09** - Exibição de artigos aleatórios. <br> **RF-10** - Página de categoria. |
 | Objetivos do teste  | Verificar se os artigos estão sendo devidamente adicionados nas páginas após o cadastro. | 
 | Passos |  **1.** Acessar a página principal do site. <br> **2.** Logar na conta de administrador (admin, 123). <br> **3.** Clicar no botão “ADMTESTE”. <br> **4.** Clicar no botão “Cadastrar artigo”. <br> **5.** Fazer o cadastro de um novo artigo, preenchendo os campos pedidos na página. <br> **6.** Voltar para a página inicial do site. <br> **7.** Verificar se o novo artigo está sendo exibido entre os artigos aleatórios. <br> **8.** Abrir a página da categoria do novo artigo. <br> **9.** Verificar se o novo artigo está presente na página da categoria selecionada. <br> **10.** Clicar no novo artigo. <br> **11.** Verificar se o novo artigo foi aberto em uma página, sendo unicamente exibida, com vídeo, imagem e texto. <br> |
 | Critérios de Êxito | As páginas de exibição de artigo devem exibir o novo artigo criado através do cadastro, contendo todas as informações inseridas. |
@@ -326,7 +326,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
 | Caso de Teste  | **CT-03 - Cadastro do novo usuário, login e exibição do perfil** |
 |----------------|------------------------------------------------------------------|
-| Requisitos Associados  | **RF-09** - Cadastro de usuário. <br> **RF-06** - Login. <br> **RF-07** - Exibição do perfil. |
+| Requisitos Associados  | **RF-05** - Cadastro de usuário. <br> **RF-06** - Login. <br> **RF-07** - Exibição do perfil. |
 | Objetivos do teste  | Verificar se o usuário cadastrado consegue logar no site e, posteriormente, acessar suas informações cadastrais. | 
 | Passos |  **1.** Entre na página inicial do site. <br> **2.** Clique em “Login” no menu horizontal. <br> **3.** Clique em “Novo Usuário”. <br> **4.** Preencha os dados cadastrais. <br> **5.** Clique em “Salvar”. <br> **6.** Clique em “Login” no menu horizontal. <br> **7.** Preencha as informações de login. <br> **8.** Clique em “Favoritos” no menu horizontal. <br> **9.** Clique em “Perfil” na barra lateral. |
 | Critérios de Êxito | Ao acessar a conta cadastrada e clicar no perfil, devem ser exibidas algumas das informações cadastrais, como nome completo, nome de usuário e e-mail. |
@@ -343,7 +343,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
 ## Registros de Testes
 
-Os testes obtiveram resultados satisfatórios, visto que os idosos que acessaram o site leram os artigos e assistiram aos vídeos e relataram ter tido maior facilidade em acessar os recursos e as ferramentas digitais que foram trabalhadas no projeto. Entretanto, alguns relatos mostram, também, pontos fracos da solução, como a impossibilidade de fazer sugestões e perguntas sobre os artigos, devido à inexistência de um campo de comentários, o qual deverá ser implementado nas próximas iterações. Ademais, algumas das sugestões retornadas pelos testes foram implementadas no sistema, como a criação de um FAQ.
+Os testes obtiveram resultados satisfatórios, visto que os idosos que acessaram o site leram os artigos e assistiram aos vídeos e relataram ter tido maior facilidade em acessar os recursos e as ferramentas digitais que foram trabalhadas no projeto. Entretanto, alguns relatos mostram, também, pontos fracos da solução, como a impossibilidade de fazer sugestões e perguntas sobre os artigos, devido à inexistência de um campo de comentários. A função de favoritar um artigo também foi testada, mas, por não funcionar de maneira devida, foi retirada do software. Essas funcionalidades deverão ser implementadas nas próximas iterações. Ademais, algumas das sugestões retornadas pelos testes foram implementadas no sistema, como a criação de um FAQ.
 
 # Referências
 
